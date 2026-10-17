@@ -1,0 +1,11 @@
+{
+  "name": "pragma-checker",
+  "version": "0.1.0",
+  "description": "Read between the lines of a document: up to 3 orthogonal implied readings, each with quoted evidence and a heuristic relative-plausibility share, built from Gricean pragmatics, Relevance Theory and the Rational Speech Act view.",
+  "author": {
+    "name": "ARY2260"
+  },
+  "homepage": "https://github.com/ARY2260/PragmaChecker",
+  "repository": "https://github.com/ARY2260/PragmaChecker",
+  "keywords": ["pragmatics", "implicature", "reading", "analysis", "skill"]
+}

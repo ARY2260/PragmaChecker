@@ -1,0 +1,13 @@
+{
+  "name": "pragma-checker",
+  "owner": {
+    "name": "ARY2260"
+  },
+  "plugins": [
+    {
+      "name": "pragma-checker",
+      "source": "./",
+      "description": "Read between the lines of a document: up to 3 orthogonal implied readings with quoted evidence and a heuristic relative-plausibility share."
+    }
+  ]
+}
