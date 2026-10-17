@@ -3,6 +3,9 @@
   "owner": {
     "name": "ARY2260"
   },
+  "metadata": {
+    "description": "A skeptical reader for documents: finds what a text implies but does not say, with quoted evidence. Vibe-coded and unvalidated; use with your own caution."
+  },
   "plugins": [
     {
       "name": "pragma-checker",
